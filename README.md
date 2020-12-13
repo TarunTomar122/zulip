@@ -77,7 +77,4 @@ Zulip is distributed under the
 
 [beginner-friendly]: https://github.com/zulip/zulip/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22
 
-[![](https://img.shields.io/badge/Donate-Jupyter?style=for-the-badge)](https://razorpay.webug.space/TarunTomar122/zulip)
-
-#Supporters
 
